@@ -1,1 +1,82 @@
 /* You can add global styles to this file, and also import other style files */
+.animateDiv1{
+  min-height:20vh;
+  background-color:#d06503;
+  color:#fff;
+  font-size:1em;
+ /*  max-width:15%; */
+  transition:0.5s ease-in;
+}
+.animateDiv1:hover{
+  min-height:22vh;
+  border-bottom:4px solid #974a02;
+  transition:0.5s ease-out;
+ }
+ .animateDiv2{
+  min-height:20vh;
+  background-color:#e9931a;
+  color:#fff;
+  font-size:1em;
+ /*  max-width:15%; */
+  transition:0.5s ease-in;
+}
+.animateDiv2:hover{
+  min-height:22vh;
+  border-bottom:4px solid #d18215;
+  transition:0.5s ease-out;
+ }
+ .animateDiv3{
+  min-height:20vh;
+  background-color:#1691be;
+  color:#fff;
+  font-size:1em;
+ /*  max-width:15%; */
+  transition:0.5s ease-in;
+}
+.animateDiv3:hover{
+  min-height:22vh;
+  border-bottom:4px solid #137aa0;
+  transition:0.5s ease-out;
+ }
+ .animateDiv4{
+  min-height:20vh;
+  background-color:#166ba2;
+  color:#fff;
+  font-size:1em;
+ /*  max-width:15%; */
+  transition:0.5s ease-in;
+}
+.animateDiv4:hover{
+  min-height:22vh;
+  border-bottom:4px solid #125887;
+  transition:0.5s ease-out;
+ }
+ .animateDiv5{
+  min-height:20vh;
+  background-color:#1b3647;
+  color:#fff;
+  font-size:1em;
+ /*  max-width:15%; */
+  transition:0.5s ease-in;
+}
+.animateDiv5:hover{
+  min-height:22vh;
+  border-bottom:4px solid #152a37;
+  transition:0.5s ease-out;
+ }
+.animateDiv6{
+  min-height:20vh;
+  background-color:#152836;
+  color:#fff;
+  font-size:1em;
+ /*  max-width:15%; */
+  transition:0.5s ease-in;
+}
+.animateDiv6:hover{
+  min-height:22vh;
+  border-bottom:4px solid #070e12;
+  transition:0.5s ease-out;
+ }
+.navlist{
+    list-style-type: none;
+}
